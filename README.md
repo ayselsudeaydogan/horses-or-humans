@@ -57,6 +57,6 @@ Performance plots, confusion matrices, and additional evaluation metrics are inc
 ---
 
 ## 🔗 Links  
-- [Notebook on Colab](#)  
-- [Dataset](#)  
-- [Project Presentation](#)
+- [Notebook on Colab](https://colab.research.google.com/drive/1fHkHb4SBfPsNc-mldUaUIXYcqkF0040O?usp=share_link)  
+- [Dataset](https://www.kaggle.com/c/dogs-vs-cats/data)  
+- [Project Presentation](#BURAYA*SUNUMUN*DRIVELINKINIFALANKOYUN)
