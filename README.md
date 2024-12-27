@@ -14,7 +14,7 @@ This project focuses on building a Convolutional Neural Network (CNN) using Tens
 ---
 
 ## 📁 Dataset  
-The dataset used for this project is publicly available on Kaggle ([link to the dataset](#)) or any other relevant source. It consists of labeled images of cats and dogs for training and testing.  
+The dataset used for this project is publicly available on Kaggle ([link to the dataset](https://www.kaggle.com/c/dogs-vs-cats/data)) or any other relevant source. It consists of labeled images of cats and dogs for training and testing.  
 
 **Data Preprocessing**:  
 - 🖼️ Resizing and normalizing images  
@@ -25,7 +25,7 @@ The dataset used for this project is publicly available on Kaggle ([link to the 
 ## 🚀 How to Run the Project  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your_username>/cats-vs-dogs-classification.git
+   git clone https://github.com/uu4/cats-vs-dogs-classification.git
    ```  
 2. Navigate to the project directory:  
    ```bash
