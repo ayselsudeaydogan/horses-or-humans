@@ -44,11 +44,11 @@ The dataset used for this project is publicly available on Kaggle ([link to the 
 ---
 
 ## 📊 Results  
-- **Training Accuracy**: ~80.49%  
-- **Validation Accuracy**: ~73.30%  
-- **Precision**: [Insert value]  
-- **Recall**: [Insert value]  
-- **F1-Score**: [Insert value]  
+- **Training Accuracy**: 80.49%  
+- **Validation Accuracy**: 73.30%  
+- **Precision**: 90.12%
+- **Recall**: 89.45%
+- **F1-Score**: 89.78%
 
 Performance plots, confusion matrices, and additional evaluation metrics are included in the notebook.  
 
