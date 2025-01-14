@@ -25,14 +25,14 @@ The dataset used for this project is publicly available on Tensorflow Datasets (
 ## 🚀 How to Run the Project  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/uu4/cats-vs-dogs-classification.git
+   git clone https://github.com/uu4/horse-or-humans.git
    ```  
 2. Navigate to the project directory:  
    ```bash
-   cd cats-vs-dogs-classification
+   cd horse-or-humans
    ```  
 3. Open the notebook in Google Colab:  
-   - 📤 Upload `Cats_vs_Dogs_Classification_with_TensorFlow-2.ipynb` to Colab.  
+   - 📤 Upload `Updated-Horse_or_Humans_Classification_with_TensorFlow-2.ipynb` to Colab.  
    - Follow the instructions in the notebook to install dependencies and run the project.  
 
 4. Train the model or use the pre-trained version provided.  
@@ -40,11 +40,10 @@ The dataset used for this project is publicly available on Tensorflow Datasets (
 ---
 
 ## 📊 Results  
-- **Training Accuracy**: 80.49%  
-- **Validation Accuracy**: 73.30%  
-- **Precision**: 90.12%
-- **Recall**: 89.45%
-- **F1-Score**: 89.78%
+- **Validation Accuracy**: 77.7%  
+- **Precision**: 69.4%
+- **Recall**: 99.22%
+- **F1-Score**: 81.67%
 
 Performance plots, confusion matrices, and additional evaluation metrics are included in the notebook.  
 
@@ -57,6 +56,6 @@ Performance plots, confusion matrices, and additional evaluation metrics are inc
 ---
 
 ## 🔗 Links  
-- [Notebook on Colab](https://colab.research.google.com/drive/1fHkHb4SBfPsNc-mldUaUIXYcqkF0040O?usp=share_link)  
+- [Notebook on Colab](https://colab.research.google.com/drive/1e6QMYunYe29SKVlOSVgkjSyrbzAhx564?usp=share_link)  
 - [Dataset](https://www.tensorflow.org/datasets/catalog/horses_or_humans)  
 - [Project Presentation](#BURAYA*SUNUMUN*DRIVELINKINIFALANKOYUN)
