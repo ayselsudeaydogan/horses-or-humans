@@ -50,8 +50,9 @@ Performance plots, confusion matrices, and additional evaluation metrics are inc
 ---
 
 ## 🤝 Contributions  
-- [Your Name] - [Specific Contributions]  
-- [Group Member 2] - [Specific Contributions]  
+- Aysel Sude Aydoğan - [Specific Contributions]  
+- Hasret Demir - [Specific Contributions]
+- Papatya Nida Solak - [Specific Contributions]
 
 ---
 
