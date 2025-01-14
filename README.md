@@ -1,7 +1,3 @@
-todo: dog classification hatali onlari duzelt, readmedeki f1,classification skorlarini duzelt vs, belki notebook icerisinde daha fazla text olabilir veya comment 
-
-
-
 # 🐱🐶 Horses or Humans Classification Project  
 
 ## 🌟 Overview  
