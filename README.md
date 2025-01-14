@@ -14,7 +14,7 @@ This project focuses on building a Convolutional Neural Network (CNN) using Tens
 ---
 
 ## 📁 Dataset  
-The dataset used for this project is publicly available on Kaggle ([link to the dataset](https://www.tensorflow.org/datasets/catalog/horses_or_humans)) or any other relevant source. It consists of labeled images of cats and dogs for training and testing.  
+The dataset used for this project is publicly available on Tensorflow Datasets ([link to the dataset](https://www.tensorflow.org/datasets/catalog/horses_or_humans)) or any other relevant source. It consists of labeled images of cats and dogs for training and testing.  
 
 **Data Preprocessing**:  
 - 🖼️ Resizing and normalizing images  
