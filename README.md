@@ -1,4 +1,4 @@
-# 🐱🐶 Horses or Humans Classification Project  
+#  Horses or Humans Classification Project  
 
 ## 🌟 Overview  
 This project focuses on building a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images of humans and horses. It is part of an AI-based application development assignment, and the primary goal is to explore and implement deep learning techniques for image classification.
