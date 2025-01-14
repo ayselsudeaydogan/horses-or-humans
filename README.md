@@ -25,7 +25,7 @@ The dataset used for this project is publicly available on Tensorflow Datasets (
 ## 🚀 How to Run the Project  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/uu4/horse-or-humans.git
+   git clone https://github.com/ayselsudeaydogan/horse-or-humans.git
    ```  
 2. Navigate to the project directory:  
    ```bash
