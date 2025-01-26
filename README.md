@@ -59,4 +59,4 @@ Performance plots, confusion matrices, and additional evaluation metrics are inc
 ## 🔗 Links  
 - [Notebook on Colab](https://colab.research.google.com/drive/1e6QMYunYe29SKVlOSVgkjSyrbzAhx564?usp=share_link)  
 - [Dataset](https://www.tensorflow.org/datasets/catalog/horses_or_humans)  
-- [Project Presentation]([#BURAYA*SUNUMUN*DRIVELINKINIFALANKOYUN](https://www.canva.com/design/DAGcZcZynyg/t6A_MmZFUZPncwdAJ5X5Fg/edit?utm_content=DAGcZcZynyg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+- [Project Presentation](https://www.canva.com/design/DAGcZcZynyg/t6A_MmZFUZPncwdAJ5X5Fg/edit?utm_content=DAGcZcZynyg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
