@@ -1,4 +1,3 @@
-Tabii, mevcut README'yi çok değiştirmeden birkaç küçük düzeltme ve düzenleme yaptım. Direkt komple kopyalayıp GitHub'daki `README.md` dosyasının yerine yapıştırabilirsin:
 
 # 🐴 Horses or Humans Classification Project
 
